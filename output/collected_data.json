@@ -1,0 +1,104 @@
+{
+    "competitor_data": {
+        "Nvidia": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Ryzen": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        }
+    },
+    "keyword_data": {
+        "Central Processing Units (CPUs)": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "High-Performance Computing": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Multicore Processors": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Gaming Processors": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Desktop CPUs": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "AMD Ryzen Series": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Zen Architecture": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Overclocking": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Processor Performance": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "HEDT (High-End Desktop)": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "Thermal Design Power (TDP)": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        },
+        "AMD Radeon": {
+            "newsapi": {
+                "status": "error",
+                "code": "rateLimited",
+                "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+            }
+        }
+    }
+}
