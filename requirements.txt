@@ -22,7 +22,7 @@ keyring==25.3.0
 matplotlib==3.9.2
 mock==5.1.0
 netifaces==0.11.0
-numpy==2.1.1
+numpy==1.26.4
 numpydoc==1.8.0
 pandas==2.2.2
 pathlib2==2.3.7.post1
