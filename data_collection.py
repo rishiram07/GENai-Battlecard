@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import spacy
+os.system('python -m spacy download en_core_web_sm')
 
 # Initialize SpaCy NLP model
 nlp = spacy.load('en_core_web_sm')
