@@ -19,7 +19,6 @@ hypothesis==6.112.1
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
 isoduration==20.11.0
-jnius==1.1.0
 jsonpointer==3.0.0
 keyring==25.3.0
 matplotlib==3.9.2
