@@ -44,4 +44,3 @@ testpath==0.6.0
 trio==0.26.2
 uri_template==1.3.0
 webcolors==24.8.0
-xmlrpclib==1.0.1
